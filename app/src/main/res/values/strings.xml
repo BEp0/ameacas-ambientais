@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ameacas Ambientais</string>
+    <string name="nova_ameaca">Nova Ameaça</string>
+    <string name="ameacas_cadastradas">Ameaças cadastradas</string>
+</resources>
